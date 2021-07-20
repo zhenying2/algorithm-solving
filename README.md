@@ -1,3 +1,6 @@
+강의 링크: https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz
+문제집 링크: https://www.acmicpc.net/workbook/view/2071
+
 --------------------------------------------
 
 # 21.07월 목표
