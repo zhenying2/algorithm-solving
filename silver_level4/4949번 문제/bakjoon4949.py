@@ -16,5 +16,7 @@ for line in lines[:-1]: #빈칸공백 제거X-> 마지막이 빈칸 제외하고
         elif t == '.':
             if stack: #.하나만 있지 않은 경우 -> false
                 print('no')
+                break
             else:
                 print("yes")
+                break
